@@ -1,0 +1,67 @@
+.goku {
+  background-image: url('./gokuSprites.gif');
+  background-repeat: no-repeat;
+  width: 60px;
+  height: 85px;
+  transform: scale(3);
+}
+
+.goku.punch-1 {
+  background-position: 13px -84px;
+  width: 67px;
+}
+.goku.punch-2 {
+  background-position: -55px -84px;
+  width: 93px;
+}
+.goku.punch-3 {
+  background-position: -139px -84px;
+  width: 66px;
+}
+.goku.punch-4 {
+  background-position: -55px -84px;
+  width: 93px;
+}
+
+.goku.kick-1 {
+  width: 80px;
+  background-position: 20px -257px;
+}
+
+.goku.kick-2 {
+  width: 102px;
+  background-position: -62px -257px;
+}
+
+.goku.kick-3 {
+  width: 80px;
+  background-position: 20px -257px;
+}
+
+
+
+
+
+ 
+.goku.super-punch-1 {
+  width:70px; 
+  background-position: 13px -350px;
+}
+
+.goku.super-punch-2 {
+  width:65px; 
+  height: 100px;
+  background-position: -55px -344px;
+}
+
+.goku.super-punch-3 {
+  width:65px; 
+  height: 100px;
+  background-position: -129px -344px; 
+}
+
+.goku.super-punch-4 {
+  width:65px; 
+  height: 100px;
+  background-position: -179px -340px; 
+}

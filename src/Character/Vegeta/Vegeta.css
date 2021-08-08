@@ -1,0 +1,58 @@
+.vegeta {
+  background-image: url('./vegetaSprites.gif');
+  background-repeat: no-repeat;
+  width: 42px;
+  height: 99px;
+  transform: scale(-2.5, 2.5);
+}
+
+.vegeta.punch-1 {
+  background-position: -93px 0;
+  width: 50px;
+}
+.vegeta.punch-2 {
+  background-position: -147px 0;
+  width: 65px;
+}
+.vegeta.punch-3 {
+  background-position: -211px 0;
+  width: 73px;
+}
+.vegeta.punch-4 {
+  background-position: -147px 0;
+  width: 65px;
+}
+
+.vegeta.super-punch-1 {
+  height: 75px;
+  background-position: -2px -205px;
+}
+
+.vegeta.super-punch-2 {
+  height: 75px;
+  width: 60px;
+  background-position: -64px -205px;
+}
+
+.vegeta.super-punch-3 {
+  height: 75px;
+  width: 60px;
+  background-position: -120px -205px;
+}
+
+.vegeta.super-punch-4 {
+  height: 75px;
+  width: 60px;
+  background-position: -64px -205px;
+}
+
+.vegeta.kick-1 {
+  background-position: -272px -279px;
+}
+.vegeta.kick-2 {
+  width: 70px;
+  background-position: -318px -289px;
+}
+.vegeta.kick-3 {
+  background-position: -272px -279px;
+}
